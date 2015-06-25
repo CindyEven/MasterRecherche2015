@@ -1,0 +1,160 @@
+\begin{thebibliography}{10}
+
+\bibitem{Amini13}
+R.~Amini and C.~Lisetti.
+\newblock Hapfacs: An open source api/software to generate facs-based
+  expressions for ecas animation and for corpus generation.
+\newblock In {\em Affective Computing and Intelligent Interaction (ACII), 2013
+  Humaine Association Conference on}, pages 270--275. IEEE, 2013.
+
+\bibitem{Bettadapura12}
+V.~Bettadapura.
+\newblock Face expression recognition and analysis: The state of the art.
+\newblock {\em arXiv: Tech Report}, pages 1--27, 2012.
+
+\bibitem{Bosser10}
+A.-G. Bosser, M.~Cavazza, and R.~Champagnat.
+\newblock Linear logic for non-linear storytelling.
+\newblock In {\em Proceedings of the 2010 conference on ECAI 2010: 19th
+  European Conference on Artificial Intelligence}, pages 713--718. IOS Press,
+  2010.
+
+\bibitem{Busso04}
+C.~Busso, Z.~Deng, S.~Yildirim, M.~Bulut, C.~M. Lee, A.~Kazemzadeh, S.~Lee,
+  U.~Neumann, and S.~Narayanan.
+\newblock Analysis of emotion recognition using facial expressions, speech and
+  multimodal information.
+\newblock In {\em Proceedings of the 6th International Conference on Multimodal
+  Interfaces}, ICMI '04, pages 205--211, New York, NY, USA, 2004. ACM.
+
+\bibitem{Cavazza02}
+M.~Cavazza, F.~Charles, and S.~Mead.
+\newblock Character-based interactive storytelling.
+\newblock {\em IEEE Intelligent Systems}, 17(4), 2002 Jul.
+
+\bibitem{DeVault14}
+D.~DeVault, R.~Artstein, G.~Benn, T.~Dey, E.~Fast, A.~Gainer, K.~Georgila,
+  J.~Gratch, A.~Hartholt, M.~Lhommet, et~al.
+\newblock Simsensei kiosk: a virtual human interviewer for healthcare decision
+  support.
+\newblock In {\em Proceedings of the 2014 international conference on
+  Autonomous agents and multi-agent systems}, pages 1061--1068. International
+  Foundation for Autonomous Agents and Multiagent Systems, 2014.
+
+\bibitem{Ekman77}
+P.~Ekman and W.~V. Friesen.
+\newblock Facial action coding system.
+\newblock 1977.
+
+\bibitem{Erol94}
+K.~Erol, J.~Hendler, and D.~S. Nau.
+\newblock Htn planning: Complexity and expressivity.
+\newblock In {\em AAAI}, volume~94, pages 1123--1128, 1994.
+
+\bibitem{Fernandez12}
+F.~Fernández-Aranda, S.~Jiménez-Murcia, J.~J. Santamaría, K.~Gunnard,
+  A.~Soto, E.~Kalapanidas, and E.~Penelo.
+\newblock Video games as a complementary therapy tool in mental disorders:
+  Playmancer, a european multicentre study.
+\newblock {\em Journal of Mental Health}, 21(4):364--–374, 2012.
+
+\bibitem{Kato12}
+P.~M. Kato.
+\newblock Video games in health care: Closing the gap.
+\newblock {\em Review of General Psychology}, 14(2):113--121, 2010.
+
+\bibitem{Kim11}
+J.~Kim and J.~Kim.
+\newblock Virtual reality-based assessment of social skills and its application
+  to mental illnesses.
+\newblock {\em Virtual Reality}, pages 485–--500, 2011.
+
+\bibitem{Liberman05}
+R.~P. Liberman, W.~J. DeRisi, and K.~T. Mueser.
+\newblock {\em Entra\^{i}nement aux habilet\'{e}s sociales pour les patients
+  psychiatriques}.
+\newblock Savoir Faire Psy. Editions Retz, 2005.
+
+\bibitem{Martens13}
+C.~Martens, A.-G. Bosser, J.~F. Ferreira, and M.~Cavazza.
+\newblock Linear logic programming for narrative generation.
+\newblock In P.~Cabalar and T.~Son, editors, {\em Logic Programming and
+  Nonmonotonic Reasoning}, volume 8148 of {\em Lecture Notes in Computer
+  Science}, pages 427--432. Springer Berlin Heidelberg, 2013.
+
+\bibitem{Masseron93}
+M.~Masseron, C.~Tollu, and J.~Vauzeilles.
+\newblock Generating plans in linear logic: I. actions as proofs.
+\newblock {\em Theoretical Computer Science}, 113(2):349--370, 1993.
+
+\bibitem{Mateas05}
+M.~Mateas and A.~Stern.
+\newblock Structuring content in the fa{\c{c}}ade interactive drama
+  architecture.
+\newblock In {\em AIIDE}, pages 93--98, 2005.
+
+\bibitem{Pandzic03}
+I.~S. Pandzic and R.~Forchheimer, editors.
+\newblock {\em MPEG-4 Facial Animation: The Standard, Implementation and
+  Applications}.
+\newblock John Wiley \& Sons, Inc., New York, NY, USA, 2003.
+
+\bibitem{Park11}
+K.-M. Park, J.~Ku, S.-H. Choi, H.-J. Jang, J.-Y. Park, S.~I. Kim, and J.-J.
+  Kim.
+\newblock A virtual reality application in role-plays of social skills training
+  for schizophrenia: A randomized, controlled trial.
+\newblock {\em Psychiatry Research}, 189:166--172, 2011.
+
+\bibitem{Peyroux14}
+E.~Peyroux and N.~Franck.
+\newblock Rc2s: a cognitive remediation program to improve social cognition in
+  schizophrenia and related disorders.
+\newblock {\em Frontiers in Human Neuroscience}, 8(400), 2014.
+
+\bibitem{Pizzi11}
+D.~Pizzi.
+\newblock {\em Emotional Planning for Character-based Interactive
+  Storytelling}.
+\newblock PhD thesis, Teesside University, January 2011.
+
+\bibitem{Porteous10}
+J.~Porteous, M.~Cavazza, and F.~Charles.
+\newblock Applying planning to interactive storytelling: Narrative control
+  using state constraints.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology (TIST)},
+  1(2):10, 2010.
+
+\bibitem{Riedl10}
+M.~O. Riedl and R.~M. Young.
+\newblock Narrative planning: balancing plot and character.
+\newblock {\em Journal of Artificial Intelligence Research}, 39(1):217--268,
+  2010.
+
+\bibitem{Schack08}
+A.~Schack-Nielsen and C.~Sch{\"u}rmann.
+\newblock Celf--a logical framework for deductive and concurrent systems
+  (system description).
+\newblock In {\em Automated Reasoning}, pages 320--326. Springer, 2008.
+
+\bibitem{Thompson10}
+D.~Thompson, T.~Baranowski, R.~Buday, J.~Baranowski, V.~Thompson, R.~Jago, and
+  M.~J. Griffith.
+\newblock Serious video games for health: How behavioral science guided the
+  development of a serious video game.
+\newblock {\em Simul. Gaming}, 41(4):587--606, Aug. 2010.
+
+\bibitem{Tian01}
+Y.-l. Tian, T.~Kanade, and J.~F. Cohn.
+\newblock Recognizing action units for facial expression analysis.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 23(2):97--115, 2001.
+
+\bibitem{Young99}
+R.~M. Young.
+\newblock Notes on the use of plan structures in the creation of interactive
+  plot.
+\newblock In {\em AAAI Fall Symposium on Narrative Intelligence}, pages
+  164--167, 1999.
+
+\end{thebibliography}

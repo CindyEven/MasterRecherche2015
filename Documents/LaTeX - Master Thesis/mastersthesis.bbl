@@ -1,0 +1,295 @@
+\begin{thebibliography}{}
+
+\bibitem[Amini and Lisetti, 2013]{Amini13}
+Amini, R. and Lisetti, C. (2013).
+\newblock Hapfacs: An open source api/software to generate facs-based
+  expressions for ecas animation and for corpus generation.
+\newblock In {\em Affective Computing and Intelligent Interaction (ACII), 2013
+  Humaine Association Conference on}, pages 270--275. IEEE.
+
+\bibitem[Aylett et~al., 2005]{Aylett05}
+Aylett, R.~S., Louchart, S., Dias, J., Paiva, A., and Vala, M. (2005).
+\newblock Fearnot!--an experiment in emergent narrative.
+\newblock In {\em Intelligent virtual agents}, pages 305--316. Springer.
+
+\bibitem[Bellack, 2004]{Bellack04}
+Bellack, A.~S. (2004).
+\newblock {\em Social skills training for schizophrenia: A step-by-step guide}.
+\newblock Guilford Press.
+
+\bibitem[Benyon et~al., 2013]{Benyon13}
+Benyon, D., Gamback, B., Hansen, P., Mival, O., and Webb, N. (2013).
+\newblock How was your day? evaluating a conversational companion.
+\newblock {\em Affective Computing, IEEE Transactions on}, 4(3):299--311.
+
+\bibitem[Bettadapura, 2012]{Bettadapura12}
+Bettadapura, V. (2012).
+\newblock Face expression recognition and analysis: The state of the art.
+\newblock {\em arXiv: Tech Report}, pages 1--27.
+
+\bibitem[Bosser et~al., 2010]{Bosser10}
+Bosser, A.-G., Cavazza, M., and Champagnat, R. (2010).
+\newblock Linear logic for non-linear storytelling.
+\newblock In {\em Proceedings of the 2010 conference on ECAI 2010: 19th
+  European Conference on Artificial Intelligence}, pages 713--718. IOS Press.
+
+\bibitem[Busso et~al., 2004]{Busso04}
+Busso, C., Deng, Z., Yildirim, S., Bulut, M., Lee, C.~M., Kazemzadeh, A., Lee,
+  S., Neumann, U., and Narayanan, S. (2004).
+\newblock Analysis of emotion recognition using facial expressions, speech and
+  multimodal information.
+\newblock In {\em Proceedings of the 6th International Conference on Multimodal
+  Interfaces}, ICMI '04, pages 205--211, New York, NY, USA. ACM.
+
+\bibitem[Cassell et~al., 2007]{Cassell07}
+Cassell, J., Kopp, S., Tepper, P., Ferriman, K., and Striegnitz, K. (2007).
+\newblock Trading spaces: How humans and humanoids use speech and gesture to
+  give directions.
+\newblock {\em Conversational informatics}, pages 133--160.
+
+\bibitem[Cavazza et~al., 2002]{Cavazza02}
+Cavazza, M., Charles, F., and Mead, S. (2002).
+\newblock Character-based interactive storytelling.
+\newblock {\em IEEE Intelligent Systems}, 17(4).
+
+\bibitem[Dang, 2013]{Dang13}
+Dang, K.~D. (2013).
+\newblock {\em Aide {\`a} la r{\'e}alisation de syst{\`e}mes de pilotage de
+  narration interactive: validation d'un sc{\'e}nario bas{\'e}e sur un
+  mod{\`e}le en logique lin{\'e}aire}.
+\newblock PhD thesis, Universit{\'e} de La Rochelle.
+
+\bibitem[De~Rosis et~al., 2003]{DeRosis03}
+De~Rosis, F., Pelachaud, C., Poggi, I., Carofiglio, V., and De~Carolis, B.
+  (2003).
+\newblock From greta's mind to her face: modelling the dynamics of affective
+  states in a conversational embodied agent.
+\newblock {\em International journal of human-computer studies}, 59(1):81--118.
+
+\bibitem[DeVault et~al., 2014]{DeVault14}
+DeVault, D., Artstein, R., Benn, G., Dey, T., Fast, E., Gainer, A., Georgila,
+  K., Gratch, J., Hartholt, A., Lhommet, M., et~al. (2014).
+\newblock Simsensei kiosk: a virtual human interviewer for healthcare decision
+  support.
+\newblock In {\em Proceedings of the 2014 international conference on
+  Autonomous agents and multi-agent systems}, pages 1061--1068. International
+  Foundation for Autonomous Agents and Multiagent Systems.
+
+\bibitem[Dixon et~al., 2009]{Dixon09}
+Dixon, L., Smaill, A., and Tsang, T. (2009).
+\newblock Plans, actions and dialogues using linear logic.
+\newblock {\em Journal of Logic, Language and Information}, 18(2):251--289.
+
+\bibitem[Ekman and Friesen, 1977]{Ekman77}
+Ekman, P. and Friesen, W.~V. (1977).
+\newblock Facial action coding system.
+\newblock {\em Consulting Psychologists Press, Stanford University, Palo Alto}.
+
+\bibitem[Erol et~al., 1994]{Erol94}
+Erol, K., Hendler, J., and Nau, D.~S. (1994).
+\newblock Htn planning: Complexity and expressivity.
+\newblock In {\em AAAI}, volume~94, pages 1123--1128.
+
+\bibitem[Fellner et~al., 2012]{Fellner12}
+Fellner, A.~N., Matthews, G., Shockley, K.~D., Warm, J.~S., Zeidner, M.,
+  Karlov, L., and Roberts, R.~D. (2012).
+\newblock Using emotional cues in a discrimination learning task: Effects of
+  trait emotional intelligence and affective state.
+\newblock {\em Journal of Research in Personality}, 46(3):239--247.
+
+\bibitem[Fern\'{a}ndez-Aranda et~al., 2012]{Fernandez12}
+Fern\'{a}ndez-Aranda, F., Jim\'{e}nez-Murcia, S., Santamar\'{i}a, J.~J.,
+  Gunnard, K., Soto, A., Kalapanidas, E., and Penelo, E. (2012).
+\newblock Video games as a complementary therapy tool in mental disorders:
+  Playmancer, a european multicentre study.
+\newblock {\em Journal of Mental Health}, 21(4):364--–374.
+
+\bibitem[Friesen and Ekman, 1983]{Friesen83}
+Friesen, W.~V. and Ekman, P. (1983).
+\newblock Emfacs-7: Emotional facial action coding system.
+\newblock {\em Unpublished manuscript, University of California at San
+  Francisco}.
+
+\bibitem[Gaudelus and Franck, 2012]{Gaudelus12}
+Gaudelus, B. and Franck, N. (2012).
+\newblock Troubles du traitement des informations faciales: Le programme
+  ga{\"i}a.
+\newblock {\em Rem{\'e}diation Cognitive}, pages 169--180.
+
+\bibitem[Green, 1996]{Green96}
+Green, M.~F. (1996).
+\newblock What are the functional consequences of neurocognitive deficits in
+  schizophrenia?
+\newblock {\em The American journal of psychiatry}.
+
+\bibitem[Hamdi, 2012]{Hamdi12}
+Hamdi, H. (2012).
+\newblock {\em Plate-forme multimodale pour la reconnaissance d'{\'e}motions
+  via l'analyse de signaux physiologiques: application {\`a} la simulation
+  d'entretiens d'embauche}.
+\newblock PhD thesis, Universit{\'e} d'Angers.
+
+\bibitem[Kato, 2010]{Kato12}
+Kato, P.~M. (2010).
+\newblock Video games in health care: Closing the gap.
+\newblock {\em Review of General Psychology}, 14(2):113--121.
+
+\bibitem[Kim and Kim, 2011]{Kim11}
+Kim, J. and Kim, J. (2011).
+\newblock Virtual reality-based assessment of social skills and its application
+  to mental illnesses.
+\newblock {\em Virtual Reality}, pages 485–--500.
+
+\bibitem[Kopp et~al., 2005]{Kopp05}
+Kopp, S., Gesellensetter, L., Kr{\"a}mer, N.~C., and Wachsmuth, I. (2005).
+\newblock A conversational agent as museum guide--design and evaluation of a
+  real-world application.
+\newblock In {\em Intelligent Virtual Agents}, pages 329--343. Springer.
+
+\bibitem[Lee et~al., 2013]{Lee13}
+Lee, J., Kern, R.~S., Harvey, P.-O., Horan, W.~P., Kee, K.~S., Ochsner, K.,
+  Penn, D.~L., and Green, M.~F. (2013).
+\newblock An intact social cognitive process in schizophrenia: situational
+  context effects on perception of facial affect.
+\newblock {\em Schizophrenia bulletin}, 39(3):640--647.
+
+\bibitem[Liberman et~al., 2005]{Liberman05}
+Liberman, R.~P., DeRisi, W.~J., and Mueser, K.~T. (2005).
+\newblock {\em Entra\^{i}nement aux habilet\'{e}s sociales pour les patients
+  psychiatriques}.
+\newblock Savoir Faire Psy. Editions Retz.
+
+\bibitem[Lisetti et~al., 2013]{Lisetti13}
+Lisetti, C., Amini, R., Yasavur, U., and Rishe, N. (2013).
+\newblock I can help you change! an empathic virtual agent delivers behavior
+  change health interventions.
+\newblock {\em ACM Trans. Manage. Inf. Syst.}, 4(4):19:1--19:28.
+
+\bibitem[Martens et~al., 2013]{Martens13}
+Martens, C., Bosser, A.-G., Ferreira, J.~F., and Cavazza, M. (2013).
+\newblock Linear logic programming for narrative generation.
+\newblock In Cabalar, P. and Son, T., editors, {\em Logic Programming and
+  Nonmonotonic Reasoning}, volume 8148 of {\em Lecture Notes in Computer
+  Science}, pages 427--432. Springer Berlin Heidelberg.
+
+\bibitem[Masseron et~al., 1993]{Masseron93}
+Masseron, M., Tollu, C., and Vauzeilles, J. (1993).
+\newblock Generating plans in linear logic: I. actions as proofs.
+\newblock {\em Theoretical Computer Science}, 113(2):349--370.
+
+\bibitem[Mateas and Stern, 2005]{Mateas05}
+Mateas, M. and Stern, A. (2005).
+\newblock Structuring content in the fa{\c{c}}ade interactive drama
+  architecture.
+\newblock In {\em AIIDE}, pages 93--98.
+
+\bibitem[Pandzic and Forchheimer, 2003]{Pandzic03}
+Pandzic, I.~S. and Forchheimer, R., editors (2003).
+\newblock {\em MPEG-4 Facial Animation: The Standard, Implementation and
+  Applications}.
+\newblock John Wiley \& Sons, Inc., New York, NY, USA.
+
+\bibitem[Park et~al., 2011]{Park11}
+Park, K.-M., Ku, J., Choi, S.-H., Jang, H.-J., Park, J.-Y., Kim, S.~I., and
+  Kim, J.-J. (2011).
+\newblock A virtual reality application in role-plays of social skills training
+  for schizophrenia: A randomized, controlled trial.
+\newblock {\em Psychiatry Research}, 189:166--172.
+
+\bibitem[Pelachaud, 2005]{Pelachaud05}
+Pelachaud, C. (2005).
+\newblock Multimodal expressive embodied conversational agents.
+\newblock In {\em Proceedings of the 13th Annual ACM International Conference
+  on Multimedia}, MULTIMEDIA '05, pages 683--689, New York, NY, USA. ACM.
+
+\bibitem[P{\'e}neau and Franck, 2015]{Peneau15}
+P{\'e}neau, E. and Franck, N. (2015).
+\newblock Rem{\'e}diation cognitive dans la schizophr{\'e}nie et les troubles
+  apparent{\'e}s en pratique quotidienne.
+\newblock {\em Annales M{\'e}dico-psychologiques, revue psychiatrique},
+  173(3):279--293.
+
+\bibitem[Peyroux and Franck, 2014]{Peyroux14}
+Peyroux, E. and Franck, N. (2014).
+\newblock Rc2s: a cognitive remediation program to improve social cognition in
+  schizophrenia and related disorders.
+\newblock {\em Frontiers in Human Neuroscience}, 8(400).
+
+\bibitem[Pizzi, 2011]{Pizzi11}
+Pizzi, D. (January 2011).
+\newblock {\em Emotional Planning for Character-based Interactive
+  Storytelling}.
+\newblock PhD thesis, Teesside University.
+
+\bibitem[Porteous et~al., 2010]{Porteous10}
+Porteous, J., Cavazza, M., and Charles, F. (2010).
+\newblock Applying planning to interactive storytelling: Narrative control
+  using state constraints.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology (TIST)},
+  1(2):10.
+
+\bibitem[Riedl and Young, 2010]{Riedl10}
+Riedl, M.~O. and Young, R.~M. (2010).
+\newblock Narrative planning: balancing plot and character.
+\newblock {\em Journal of Artificial Intelligence Research}, 39(1):217--268.
+
+\bibitem[Schack-Nielsen and Sch{\"u}rmann, 2008]{Schack08}
+Schack-Nielsen, A. and Sch{\"u}rmann, C. (2008).
+\newblock Celf--a logical framework for deductive and concurrent systems
+  (system description).
+\newblock In {\em Automated Reasoning}, pages 320--326. Springer.
+
+\bibitem[Smith et~al., 2011]{Smith11}
+Smith, C., Crook, N., Dobnik, S., Charlton, D., Boye, J., Pulman, S.,
+  De~La~Camara, R.~S., Turunen, M., Benyon, D., Bradley, J., et~al. (2011).
+\newblock Interaction strategies for an affective conversational agent.
+\newblock {\em Presence: Teleoperators and Virtual Environments},
+  20(5):395--411.
+
+\bibitem[Thompson et~al., 2010]{Thompson10}
+Thompson, D., Baranowski, T., Buday, R., Baranowski, J., Thompson, V., Jago,
+  R., and Griffith, M.~J. (2010).
+\newblock Serious video games for health: How behavioral science guided the
+  development of a serious video game.
+\newblock {\em Simul. Gaming}, 41(4):587--606.
+
+\bibitem[Tian et~al., 2001]{Tian01}
+Tian, Y.-l., Kanade, T., and Cohn, J.~F. (2001).
+\newblock Recognizing action units for facial expression analysis.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 23(2):97--115.
+
+\bibitem[Verduyn et~al., 2009]{Verduyn09}
+Verduyn, P., Delvaux, E., Van~Coillie, H., Tuerlinckx, F., and Van~Mechelen, I.
+  (2009).
+\newblock Predicting the duration of emotional experience: two experience
+  sampling studies.
+\newblock {\em Emotion}, 9(1):83.
+
+\bibitem[Vianin et~al., 2003]{Vianin03}
+Vianin, P., Marquet, P., Magistretti, P., and Bovet, P. (2003).
+\newblock Pertinence d'un programme de rem{\'e}diation cognitive pour patients
+  schizophr{\`e}nes: l'hypoth{\`e}se de la plasticit{\'e} c{\'e}r{\'e}brale:
+  Psychiatrie.
+\newblock {\em M{\'e}decine et hygi{\`e}ne}, 61(2450):1737--1742.
+
+\bibitem[Vogt et~al., 2008]{Vogt08}
+Vogt, T., Andr{\'e}, E., and Bee, N. (2008).
+\newblock Emovoice—-a framework for online recognition of emotions from
+  voice.
+\newblock In {\em Perception in multimodal dialogue systems}, pages 188--199.
+  Springer.
+
+\bibitem[Weiss et~al., 2009]{Weiss09}
+Weiss, T., Baudouin, J.-Y., and Demily, C. (2009).
+\newblock Production d’{\'e}motions faciales dans la schizophr{\'e}nie.
+\newblock {\em L'Evolution psychiatrique}, 74(1):137--144.
+
+\bibitem[Young, 1999]{Young99}
+Young, R.~M. (1999).
+\newblock Notes on the use of plan structures in the creation of interactive
+  plot.
+\newblock In {\em AAAI Fall Symposium on Narrative Intelligence}, pages
+  164--167.
+
+\end{thebibliography}
