@@ -1,0 +1,15 @@
+﻿A/Salut ça va?/aHappy
+P/Salut, ça va et toi?
+A/Oui ça va/aHappy
+A/J'ai trouvé un travail, je commence lundi prochain!/aHappy
+A/Par contre ma voiture est en pane, j'ai besoin de la réparer pour pouvoir y aller./aSad
+A/Et mon curateur ne veut pas me donner d'argent pour faire les réparations./aSad
+P/C'est super que tu aies trouvé du travail!
+A/Oui mais sans voiture je ne pourrais pas y aller./aAngry
+A/Tu ne pourrais pas me prêter de l'argent pour faire les réparations?/aHappy
+P/J'aurais aimé pouvoir t'aider mais je n'ai pas d'argent.
+A/Ah, ok. Il va falloir que je trouve une solution./aNeutral
+P/Tes parents ne peuvent pas t'aider?
+A/Je n'ose plus leur demander de l'aide, à chaque fois je vois bien que ça les embête./aSad
+P/Mais cette fois si c'est pour aller au travail peut-être qu'ils seraient contents de t'aider.
+A/Oui, peut-être. Je les appellerais ce soir pour voir./aNeutral

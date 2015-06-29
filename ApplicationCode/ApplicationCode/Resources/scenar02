@@ -1,0 +1,73 @@
+greet * newJob * pbcar * pbmoney * lottery
+
+greet -@ A "agent / Salut, ‡a va ? / aHappy"
+
+A -@ B "patient / Ca va et toi ?"
+A -@ C "patient / Ca ne va pas super bien"
+
+B * pHappy   -@ subjectDone "agent / Oui ‡a va. / aHappy" 
+B * pNeutral -@ subjectDone "agent / Oui ‡a va. / aHappy" 
+B * pSad     -@ E "agent / Tu es s–r ? Ca n'a pas l'air d'aller. / aNeutral"
+B * pAngry   -@ E "agent / Tu es s–r ? Ca n'a pas l'air d'aller. / aNeutral"
+
+C * pHappy   -@ F "agent / Ca … l'air d'aller pourtant / aHappy"
+C * pSad     -@ G "agent / Oh moi nonplus ‡a ne va pas. / aSad"
+C * pNeutral -@ G "agent / Oh moi nonplus ‡a ne va pas. / aSad"
+C * pAngry   -@ G "agent / Oh moi nonplus ‡a ne va pas. / aSad"
+
+E -@ subjectDone "patient / Si si ‡a va." 
+E -@ I "patient / Disons que ‡a pourrait aller mieux."
+
+I -@ G "agent / Oh moi nonplus ‡a ne va pas. / aSad"
+
+F -@ J1 "patient / Pourquoi tu dis ca ?"
+J1 -@ subjectDone "agent / Parce que tu as l'air joyeux. / aHappy"
+F -@ J2 "patient / Non ca ne va vraiment pas."
+J2 -@ G "agent / Oh moi nonplus ‡a ne va pas. / aSad"
+
+subjectDone * newJob -@ K "agent / J'ai trouv‚ un nouveau travail ! / aHappy"
+G * pbcar -@ L "agent / J'ai un problŠme avec ma voiture, elle a besoin de r‚parations. / aSad"
+K * pbcar -@ L "agent / J'ai un problŠme avec ma voiture, elle a besoin de r‚parations. / aSad"
+G * pbmoney -@ M "agent / Mon curateur ne veut pas me donner d'argent. / aAngry"
+L * pbmoney -@ M "agent / Mon curateur ne veut pas me donner d'argent. / aAngry"
+M -@ N "agent / Tu ne pourrais pas me pr‚ter de l'argent? Il me faudrait 200 euros. / aSad"
+
+N -@ Nyes "patient / Ok je te donnerais ‡a."
+
+Nyes * pAngry -@ O "agent / Tu es sur? Ca a l'air de t'‚nerver. / aNeutral"
+Nyes * pSad -@ O "agent / Tu es sur? Ca a l'air de t'emb‚ter. / aSad"
+Nyes * pHappy -@ subjectDone "agent / Oh merci ‡a va beaucoup m'aider / aHappy"
+Nyes * pNeutral -@ subjectDone "agent / Oh merci ‡a va beaucoup m'aider / aHappy"
+
+O -@ askStop "patient / J'aimerais que tu arrˆte de me demander de l'argent dŠs que tu as un problŠme."
+O -@ subjectDone "patient / Non non, ‡a me fait plaisir de t'aider."
+
+N -@ Nno "patient / Non je suis d‚sol‚, j'aurais aim‚ pouvoir t'aider mais je n'ai pas d'argent … te pr‚ter."
+N -@ NoButBad "patient / Oui mais il faut que tu me rende l'argent demain."
+
+NoButBad -@ subjectDone "agent / Je n'aurais pas l'argent demain, laisse tomber je vais me d‚brouiller. / aAngry"
+Nno -@ subjectDone "agent / Ok tant pis. Il va falloir que je trouve une autre solution. / aSad"
+
+N -@ askStop "patient / J'aimerais que tu arrˆte de me demander de l'argent, tu sais que je ne peux pas t'aider."
+N -@ askStop2 "patient / Tu me dois d‚j… de l'argent, commence par me rendre ce que tu me dois."
+
+askStop * pSad 		-@ S1 "agent / Ah ok, excuse-moi. Mais merci quand mˆme. / aSad"
+askStop * pHappy 	-@ S1 "agent / Ah ok, excuse-moi. Mais merci quand mˆme. / aSad"
+askStop * pNeutral 	-@ S1 "agent / Ah ok, excuse-moi. Mais merci quand mˆme. / aSad"
+askStop * pAngry 	-@ wait "agent / Ne t'‚nerve pas! Je ne te demanderais plus jamais rien ! / aAngry"
+
+askStop2 -@ wait "agent / Je ne suis pas une voleuse, je te rendrais l'argent ! / aAngry"
+
+subjectDone * lottery -@ P "agent / J'ai gagn‚ 50 euros au Banco hier ! / aHappy"
+P -@ subjectDone "patient / G‚nial! Tu en a de la chance !"
+P -@ Q1 "patient / Tu es accro aux jeux, tu devrais faire attention."
+P -@ Q1 "patient / Tu es nul tu as encore jou‚ ! Je t'avais pourtant dit d'arrˆter."
+
+
+wait -@ stop "patient / Tu m'‚nerve, je m'envais."
+wait -@ stop "patient / Partir sans rien dire."
+wait * lottery -@ subjectDone * lottery "patient / Ca va laisse tomber. Qu'est ce que tu racontes de nouveau sinon ?"
+wait * newJob -@ subjectDone * newJob "patient / Je ne voulais pas m'‚nerver. Comment avance ta recherche de travail ?"
+
+Q1 -@ subjectDone "agent / Oui mais cette fois j'ai gagn‚ ! / aHappy"
+
