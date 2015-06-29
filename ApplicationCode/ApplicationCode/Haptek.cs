@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -9,7 +10,8 @@ namespace ApplicationCode
 {
     public class Haptek
     {
-        private string path = Application.StartupPath + "\\Resources";
+        private string path = "Resources";
+
         public AxACTIVEHAPTEKXLib.AxActiveHaptekX haptekPlayer;
 
         public Haptek(AxACTIVEHAPTEKXLib.AxActiveHaptekX _haptekPlayer)
