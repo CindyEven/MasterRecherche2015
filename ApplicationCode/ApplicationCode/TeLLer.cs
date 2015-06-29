@@ -46,7 +46,8 @@ namespace ApplicationCode
             {
                 int cp = CultureInfo.CurrentCulture.TextInfo.OEMCodePage;
                 pTeLLer = new Process();
-                pTeLLer.StartInfo.FileName = path+"\\TeLLer\\dist\\build\\TeLLer\\TeLLer.exe";
+                pTeLLer.StartInfo.FileName = Environment.GetEnvironmentVariable("TELLER");
+                //pTeLLer.StartInfo.FileName = path+"\\TeLLer\\dist\\build\\TeLLer\\TeLLer.exe";
                 pTeLLer.StartInfo.UseShellExecute = false;
                 pTeLLer.StartInfo.RedirectStandardOutput = true;
                 pTeLLer.OutputDataReceived += new DataReceivedEventHandler(TeLLerOutputHandler);
